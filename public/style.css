@@ -1,0 +1,18 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background: rgb(207, 232, 207)
+}
+img{
+  height: 200px;
+}
+.number {
+  color: gray;
+}
+.attendee{
+  font-weight: bold;
+}
+li {
+  list-style-type: none;
+  padding-left: 0;
+}
