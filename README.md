@@ -1,13 +1,6 @@
-## Installation
+#RSVP App
 
-1. Clone repo
-2. run `npm install`
+<img width="1436" alt="Screenshot 2023-11-12 at 7 36 30 PM" src="https://github.com/codedbycass/RSVP-Auth/assets/122684139/4f5980b2-6b70-4bac-bc50-2fe57a5395a1">
 
-## Usage
+<img width="1437" alt="Screenshot 2023-11-12 at 7 36 42 PM" src="https://github.com/codedbycass/RSVP-Auth/assets/122684139/fa449efd-b54d-4e4c-8969-064dd507061d">
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
